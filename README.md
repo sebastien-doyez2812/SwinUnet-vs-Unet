@@ -98,4 +98,5 @@ Jupyter server run on http://127.0.0.1:8888/
 
 Sébastien Doyez
 AI Engineer — Computer Vision, Robotics & Deep Learning
+
 This project is released for educational and research purposes.
